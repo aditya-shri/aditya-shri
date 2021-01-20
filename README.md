@@ -8,17 +8,19 @@ Thank you for your interest in my profile
 
 
 - 🔭 I’m a novice developer
-- [Portfolio](https://adityashri.tk)
-- Knows Java, C++, Python, Kotlin.
+- 💻 [Portfolio](https://adityashri.tk)
+- 🎓 Knows Java, C++, Python, Kotlin.
 - 🌱 I’m currently learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 - 👯 I’m looking to collaborate on android projects.
-//- 🤔 I’m looking for help with ...
-//- 💬 Ask me about ...
 - 📫 How to reach me: mymail@adityashri.tk
-//- 😄 Pronouns: ...
-//- ⚡ Fun fact: ... 
-- [VPN](https://github.com/aditya-shri/VPN)
-- [Basic Video Chat app](https://video.adityshri.tk)
+- ⚡ [VPN](https://github.com/aditya-shri/VPN)
+- 💬 [Basic Video Chat app](https://video.adityshri.tk)
+<--
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+-->
 
 
 ### Skills 👨‍💻
