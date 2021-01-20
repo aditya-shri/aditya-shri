@@ -4,7 +4,7 @@ Thank you for your interest in my profile
 </br>
 </br>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prabha-coder/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aditya-shri/&title=Profile%20Views)
 
 
 - 🔭 I’m a novice developer
