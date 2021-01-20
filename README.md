@@ -24,15 +24,15 @@ Thank you for your interest in my profile
 
 ### Skills 👨‍💻
 
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/github.svg" />
-<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/java.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/cplusplus.svg" />
-<img align="left" alt="Kotlin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/kotlin.svg" />
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/python.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/mysql.svg" />
-<img align="left" alt="Cloudflare" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/cloudflare.svg" />
-<img align="left" alt="cPanel" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/cpanel.svg" />
-<img align="left" alt="Google Products Expert" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/google.svg" />
+<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
+<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" />
+<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" />
+<img align="left" alt="Kotlin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kotlin.svg" />
+<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" />
+<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" />
+<img align="left" alt="Cloudflare" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudflare.svg" />
+<img align="left" alt="cPanel" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cpanel.svg" />
+<img align="left" alt="Google Products Expert" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/google.svg" />
 
 
 </br>
