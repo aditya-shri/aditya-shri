@@ -10,7 +10,7 @@ Thank you for your interest in my profile
 - 💻 [Portfolio](https://adityashri.tk)
 - 🎓 Knows Java, C++, Python, Kotlin.
 - 🌱 I’m currently learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
-- 👯 I’m looking to collaborate on android projects.
+- 👯 I’m looking to collaborate on Android and Java projects.
 - 📫 How to reach me: mymail@adityashri.tk
 - ⚡ [VPN](https://github.com/aditya-shri/VPN)
 - 💬 [Basic Video Chat app](https://video.adityshri.tk)
