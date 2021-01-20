@@ -33,7 +33,7 @@ Thank you for your interest in my profile
 <img align="left" alt="Cloudflare" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudflare.svg" />
 <img align="left" alt="cPanel" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cpanel.svg" />
 <img align="left" alt="Google Products Expert" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/google.svg" />
-
+<img align="left" alt="Google Products Expert" width="24px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 </br>
 </br>
