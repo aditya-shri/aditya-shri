@@ -4,8 +4,9 @@ Thank you for your interest in my profile
 </br>
 </br>
 
+<--
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aditya-shri/&title=Profile%20Views)
-
+-->
 
 - 🔭 I’m a novice developer
 - 💻 [Portfolio](https://adityashri.tk)
@@ -15,6 +16,7 @@ Thank you for your interest in my profile
 - 📫 How to reach me: mymail@adityashri.tk
 - ⚡ [VPN](https://github.com/aditya-shri/VPN)
 - 💬 [Basic Video Chat app](https://video.adityshri.tk)
+
 <--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
