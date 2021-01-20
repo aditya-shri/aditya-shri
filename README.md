@@ -21,6 +21,7 @@ Thank you for your interest in my profile
 - ⚡ Fun fact: ... 
 -->
 
+-----------
 
 ### Skills 👨‍💻
 <!--
@@ -35,10 +36,11 @@ Thank you for your interest in my profile
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
 <img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" alt="Cloudflare" width="40px" src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
-<img align="left" alt="Google Products Expert" width="40px" src="https://img.icons8.com/fluent/48/000000/google-logo.png"/>\
+<img align="left" alt="Google Products Expert" width="40px" src="https://img.icons8.com/fluent/48/000000/google-logo.png"/>
+</br>
 </br>
 
-</br>
+-----------
 
 ### Stats ⚡️
 
