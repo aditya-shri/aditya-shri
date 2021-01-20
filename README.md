@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 Thank you for your interest in my profile
 </br>
@@ -21,8 +21,9 @@ Thank you for your interest in my profile
 - ⚡ Fun fact: ... 
 -->
 
+---
 
-## Skills 👨‍💻
+### Skills 👨‍💻
 <!--
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 -->
@@ -39,7 +40,8 @@ Thank you for your interest in my profile
 </br>
 </br>
 
+---
 
-## Stats ⚡️
+### Stats ⚡️
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya-shri&show_icons=true&theme=radical)
