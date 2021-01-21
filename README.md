@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/aditya-shri/aditya-shri/blob/main/Hi.gif" width="30px">
+### Hi there <img src="https://github.com/aditya-shri/aditya-shri/blob/main/Hi.gif" width="20px">
 
 Thank you for your interest in my profile
 </br>
