@@ -8,7 +8,7 @@ Thank you for your interest in my profile
 -->
 - 🔭 I’m a novice developer
 - 💻 [Portfolio](https://adityashri.tk)
-- 🎓 Knows Java, C++, Python, Kotlin.
+- 🎓 Knows Java, C++, Python, Kotlin, Servlets, JSP.
 - 🌱 I’m currently learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 - 👯 I’m looking to collaborate on Android and Java projects.
 - 📫 How to reach me: mymail@adityashri.tk
@@ -34,6 +34,7 @@ Thank you for your interest in my profile
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Android" width="40px" src="https://img.icons8.com/color/48/000000/android-os.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<img align="left" alt="Postgres" width="40px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" alt="Cloudflare" width="40px" src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
 <img align="left" alt="Google Products Expert" width="40px" src="https://img.icons8.com/fluent/48/000000/google-logo.png"/>
