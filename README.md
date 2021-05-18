@@ -47,4 +47,4 @@ Thank you for your interest in my profile
 
 ### Stats ⚡️
 
-![Aditya's github stats](https://gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=prs)
+![Aditya's github stats](https://gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide=prs)
