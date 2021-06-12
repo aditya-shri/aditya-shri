@@ -13,7 +13,9 @@ Thank you for your interest in my profile
 - 👯 I’m looking to collaborate on Android and Java projects.
 - 📫 How to reach me: mymail@adityashri.tk
 - ⚡ [VPN](https://github.com/aditya-shri/VPN)
+<!--
 - 💬 [Basic Video Chat app](https://video.adityashri.tk/)
+-->
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
