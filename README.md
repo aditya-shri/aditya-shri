@@ -7,14 +7,14 @@ Thank you for your interest in my profile
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aditya-shri/&title=Profile%20Views)
 -->
 - 🔭 I’m a novice developer
-- 💻 [Portfolio](https://adityashri.tk)
+- 💻 [Portfolio](https://adityashrivastava.tk)
 - 🎓 Knows Java, C++, Python, Kotlin, Servlets, JSP.
-- 🌱 I’m currently learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+- 🌱 I’m currently learning [Spring Framework](https://spring.io/)
 - 👯 I’m looking to collaborate on Android and Java projects.
 - 📫 How to reach me: mymail@adityashri.tk
 - ⚡ [VPN](https://github.com/aditya-shri/VPN)
 <!--
-- 💬 [Basic Video Chat app](https://video.adityashri.tk/)
+- 💬 [Basic Video Chat app](https://video.adityashrivastava.tk/)
 -->
 <!--
 - 🤔 I’m looking for help with ...
