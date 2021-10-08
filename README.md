@@ -11,7 +11,7 @@ Thank you for your interest in my profile
 - 🎓 Knows Java, C++, Python, Kotlin, Servlets, JSP.
 - 🌱 I’m currently learning [Spring Framework](https://spring.io/)
 - 👯 I’m looking to collaborate on Android and Java projects.
-- 📫 How to reach me: mymail@adityashri.tk
+- 📫 How to reach me: mymail@adityashrivastava.tk
 - ⚡ [VPN](https://github.com/aditya-shri/VPN)
 <!--
 - 💬 [Basic Video Chat app](https://video.adityashrivastava.tk/)
