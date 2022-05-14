@@ -21,6 +21,7 @@
 ---
 
 ### Skills 👨‍💻
+<div style="display=flex;alignhcontent=center; justify-content=center">
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
 <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/48/github.png"/>
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -33,10 +34,7 @@
 <img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" alt="Cloudflare" width="40px" src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
 <img align="left" alt="Google Products Expert" width="40px" src="https://img.icons8.com/fluent/48/000000/google-logo.png"/>
-<br />
-<br />
-<br />
-
+</div>
 
 ### Stats ⚡️
 
