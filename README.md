@@ -1,5 +1,4 @@
 ### Hi there <img src="https://github.com/aditya-shri/aditya-shri/blob/main/Hi.gif" width="20px">
-</br>
 
 <!--![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aditya-shri/&title=Profile%20Views)-->
 - 🔭 I’m a novice developer
