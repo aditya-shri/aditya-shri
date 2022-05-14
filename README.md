@@ -1,6 +1,5 @@
 ### Hi there <img src="https://github.com/aditya-shri/aditya-shri/blob/main/Hi.gif" width="20px">
 
-Thank you for your interest in my profile
 </br>
 
 <!--
@@ -49,4 +48,4 @@ Thank you for your interest in my profile
 
 ### Stats ⚡️
 
-![Aditya's github stats](https://gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)
+![Aditya's github stats](https://gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00)
