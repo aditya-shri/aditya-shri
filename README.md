@@ -20,7 +20,7 @@
 
 ---
 
-> ### Skills 👨‍💻
+### Skills 👨‍💻
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
 <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/48/github.png"/>
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -38,8 +38,8 @@
 
 
 
----
 
-> ### Stats ⚡️
+---
+### Stats ⚡️
 
 ![Aditya's github stats](https://gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00)
