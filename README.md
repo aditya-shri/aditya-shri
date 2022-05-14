@@ -36,7 +36,7 @@
 <img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" alt="Cloudflare" width="40px" src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
 <img align="left" alt="Google Products Expert" width="40px" src="https://img.icons8.com/fluent/48/000000/google-logo.png"/>
-<p></p>
+- '
 
 ---
 <br />
