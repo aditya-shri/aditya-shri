@@ -41,4 +41,4 @@
 ---
 ### Stats ⚡️
 
-![Aditya's github stats](https://gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00)
+![Aditya's github stats](https://stats.aityashrivastava.tk/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00)
