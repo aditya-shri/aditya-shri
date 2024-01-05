@@ -24,7 +24,7 @@
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Docker" width="40px" src="https://icons8.com/icon/cdYUlRaag9G9/docker"/>
+<img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" alt="Kubernates" width="40px" src="https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"/>
 <img align="left" alt="Git" width="40px" src="https://icons8.com/icon/20906/git"/>
 <img align="left" alt="Linux" width="40px" src="https://icons8.com/icon/17842/linux"/>
