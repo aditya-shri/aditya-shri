@@ -41,8 +41,6 @@
 ---
 ### Stats ⚡️
 
-<img align="left" alt="GitHub" width="40px" src="https://proxy.adityashrivastava.tk/gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00"/>
+<img align="left" alt="GitHub" width="480px" src="https://proxy.adityashrivastava.tk/gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00"/>
 
-![Aditya's github stats](https://proxy.adityashrivastava.tk/gitread.vercel.app/api?username=aditya-shri&count_private=true&show_icons=true&include_all_commits=true&hide=prs&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00)
-
-<a href="https://www.credly.com/badges/802024ce-f4a5-4bd3-95d2-be8fa47d983a/public_url"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png"></a>
+<a href="https://www.credly.com/badges/802024ce-f4a5-4bd3-95d2-be8fa47d983a/public_url"><img width="480px" align="left" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png"></a>
