@@ -25,9 +25,9 @@
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" alt="Kubernates" width="40px" src="https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"/>
-<img align="left" alt="Git" width="40px" src="https://icons8.com/icon/20906/git"/>
-<img align="left" alt="Linux" width="40px" src="https://icons8.com/icon/17842/linux"/>
+<img align="left" alt="Kubernates" width="40px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Linux" width="40px" src="https://img.icons8.com/colot/48/000000/linux.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 <img align="left" alt="Postgres" width="40px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
