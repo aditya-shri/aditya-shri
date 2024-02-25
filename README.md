@@ -5,7 +5,7 @@
 - 💻 [Portfolio](https://adityashrivastava.tk)
 - 🎓 Knows Java, Python, Docker, Kubernates and many more backend services.
 - 🌱 I’m currently learning [Spring Framework](https://spring.io/)
-- 👯 I’m looking to collaborate on Bankend and Java projects.
+- 👯 I’m looking to collaborate on Backend and Java projects.
 - 📫 How to reach me: mymail@adityashrivastava.tk
 - ⚡ [VPN](https://github.com/aditya-shri/VPN)
 <!--
