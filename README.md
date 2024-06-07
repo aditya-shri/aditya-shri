@@ -52,4 +52,4 @@
 </div>
 
 ```math
-\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8') no-repeat center center fixed; background-size: cover;]{x0000}$}
+\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://ibb.co/RQznqvg') no-repeat center center fixed; background-size: cover;]{x0000}$}
