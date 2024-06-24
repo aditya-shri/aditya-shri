@@ -3,7 +3,7 @@
 <!--![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aditya-shri/&title=Profile%20Views)-->
 - 🔭 I’m a novice developer
 - 💻 [Portfolio](https://adityashri.vercel.app)
-- 🎓 Knows Java, Python, Docker, Kubernates and many more backend services.
+- 🎓 Knows Java, Python, Docker, Kubernetes and many more backend services.
 - 🌱 I’m currently learning [Spring Framework](https://spring.io/)
 - 👯 I’m looking to collaborate on Backend and Java projects.
 - 📫 How to reach me: mymail@adityashrivastava.tk
